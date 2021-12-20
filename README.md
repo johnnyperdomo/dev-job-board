@@ -1,24 +1,17 @@
-# developer-jobs
+# Developer Job Board written in Vue.js
 
-## Project setup
-```
-npm install
-```
+## Preview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt Text](https://github.com/johnnyperdomo/dev-job-board/blob/main/src/assets/dev-board.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Built with**
+- Vue.js 2
+- Bootstrap CSS
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Features
+- **Hover over card**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+```
+  npm run serve
+  ```
